@@ -4,7 +4,7 @@
 
 [Lending Club](https://colab.research.google.com/drive/1dXri0k0HtRRrFiSx-v8RogNDgIF5cvq5?usp=sharing)
 
-[House Prices](https://colab.research.google.com/drive/1Dn4Sh5DhVhs5ovKFdVReFKBPueJGWuHx?usp=sharing)
+[House Prices](https://colab.research.google.com/drive/12jgtvEpHWPMscG9yS_45TyY4u-rusJeW?usp=sharing)
 
 [Mountain Car](https://colab.research.google.com/drive/1lIYHYmkgockX4Vc1AU9wDHInT3a6c9k9?usp=sharing)
 
